@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-fire-learn": {
+      "hosting": {
+        "travelgram": [
+          "angular-fire-learn"
+        ]
+      }
+    }
+  }
+}
