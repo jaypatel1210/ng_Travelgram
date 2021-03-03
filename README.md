@@ -4,6 +4,8 @@ This webapp inspired by Instagram app.
 Used firebase email, password to sign up/in User.  
 After successfully signin user can upload a post regarding their travel story. User can see their post as well as another posts. also, they can like and dislike other's posts.
 
+Used Firebase Realtime DB to store User Details and Post Details.  
+Used Firebase Storage to Store Images.  
 Used image compression for uploading smaller size images.  
 
 Try it @ https://jaypatel1210.github.io/ng_Travelgram/  
