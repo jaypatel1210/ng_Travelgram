@@ -6,6 +6,7 @@ After successfully signin user can upload a post regarding their travel story. U
 
 Used Firebase Realtime DB to store User Details and Post Details.  
 Used Firebase Storage to Store Images.  
+Used Firebase Auth Guard to prevent unauthorized access.  
 Used image compression for uploading smaller size images.  
 
 Try it @ https://jaypatel1210.github.io/ng_Travelgram/  
