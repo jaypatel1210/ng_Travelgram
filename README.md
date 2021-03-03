@@ -1,12 +1,12 @@
 # Travelgram (Instagram Inspired)
 
-This webapp inspired by Instagram app.
-Used firebase email, password to sign up/in User.
+This webapp inspired by Instagram app.  
+Used firebase email, password to sign up/in User.  
 After successfully signin user can upload a post regarding their travel story. User can see their post as well as another posts. also, they can like and dislike other's posts.
 
-Used image compression for uploading smaller size images.
+Used image compression for uploading smaller size images.  
 
-Try it @ https://jaypatel1210.github.io/ng_Travelgram/
+Try it @ https://jaypatel1210.github.io/ng_Travelgram/  
 
 ## Development server
 
